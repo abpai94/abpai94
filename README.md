@@ -7,5 +7,5 @@
 - I would highly recommend moving to codeberg if you want to support European 🇪🇺 efforts in FOSS, you can find a migration guide [here](https://codeberg.org/Recommendations/Mirror_to_Codeberg).
 
 <a href="https://codeberg.org/abpai94">
-    <img alt="Find me on Codeberg" src="https://codeberg.org/abpai94/.profile/media/branch/main/find-me-on-codeberg-on-black.png" height="40">
+    <img alt="Find me on Codeberg" src="https://codeberg.org/abpai94/.profile/media/branch/main/find-me-on-codeberg-on-black.png" height="100">
 </a>
